@@ -3,7 +3,7 @@ const { EmbedBuilder, ButtonBuilder, ButtonStyle, ActionRowBuilder } = pkg;
 
 export default {
   name: 'ga',
-  description: 'Tạo giveaway mới',
+  description: 'Giveaway mới',
   async execute(message) {
     const args = message.content.slice(4).trim().split('|').map(arg => arg.trim());
 
