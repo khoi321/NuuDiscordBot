@@ -1,0 +1,7 @@
+discord-nsfw
+akaneko
+node-fetch
+axios
+nekos-best.js
+googleapis
+generate-password
