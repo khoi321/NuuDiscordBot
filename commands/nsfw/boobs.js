@@ -1,6 +1,6 @@
 import { EmbedBuilder } from 'discord.js';
 import fetch from 'node-fetch';
-import { getNsfwMode } from '../../config/google-sheets.js'; // Thay đổi đường dẫn
+import { getNsfwMode } from '../../config/google-sheets.js';
 
 export default {
   name: 'boobs',
