@@ -1,0 +1,32 @@
+PRIVACY DISCLAIMER
+
+Last Updated: 02/09/2024 08:17 PM (GMT+7)
+( dd/mm/yyy hh:mm PM (GMT+7) )
+
+1. NO WARRANTY ON PRIVACY
+
+By using any projects, files, or code from the GitHub profile located at https://github.com/khoi321, you acknowledge and agree to the following privacy terms:
+
+No Guarantee of Privacy: The owner of this GitHub profile does not guarantee the privacy or security of any data you may handle or process using the projects or code from this profile. All projects are provided "as-is" and any data or information handled through these projects may be at risk of exposure or misuse.
+
+User Responsibility: It is your responsibility to ensure that any data you use or process with the projects from this GitHub profile is handled in compliance with applicable data protection laws and regulations. The owner of this GitHub profile is not responsible for any privacy breaches or data protection issues that may arise from your use of these projects.
+
+2. DATA COLLECTION AND USE
+
+No Control Over Third-Party Services: Some projects may interact with third-party services or APIs. The owner of this GitHub profile does not control or monitor these third-party services, and any data collected or processed by such services is beyond the owner's responsibility.
+
+Limited Control Over Data: The owner of this GitHub profile does not have control over how data is collected, stored, or used once it is processed by the projects or code provided. You are encouraged to review and understand the privacy policies and practices of any third-party services or APIs used.
+
+3. NO RESPONSIBILITY FOR DATA LOSS
+
+No Liability for Data Loss: The owner of this GitHub profile is not liable for any loss, corruption, or theft of data that may occur while using the projects or code from this profile. It is your responsibility to implement appropriate data protection measures and backups.
+4. COMPLIANCE WITH DATA PROTECTION LAWS
+
+Your Obligation: You are responsible for ensuring that your use of any projects or code from this GitHub profile complies with all applicable data protection and privacy laws. This includes but is not limited to laws related to the collection, storage, and processing of personal data.
+5. CHANGES TO THIS DISCLAIMER
+
+Updates to Privacy Terms: The owner of this GitHub profile reserves the right to update or modify this privacy disclaimer at any time without prior notice. Your continued use of the projects or code from this profile after such changes constitutes your acceptance of the revised terms.
+7. Terms Change
+Terms are subject to change without prior notice.
+------------------------------
+Because this is an open project, anyone can use this project and I am not responsible. In short, if you use this project, it means you use all projects in your account. Github mentioned above or similar projects like my project or my projects taken and edited by others or all projects that started with me, I will not be subject to any legal action.
