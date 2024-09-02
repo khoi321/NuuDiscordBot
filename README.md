@@ -15,6 +15,7 @@
 - [Other Document](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#dev-token)
 - [Support platform](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#support-platform)
 - [Change Log](https://github.com/khoi321/NuuDiscordBot/edit/main/README.md#change-log)
+- [License](https://github.com/khoi321/NuuDiscordBot?tab=MIT-1-ov-file)
 # NuuDiscordBot Introduce
 Advanced Discord bot with many fun and entertaining features. Helps you manage the server better and more securely. **The project is in the testing and development phase.**
 # Main features
