@@ -15,7 +15,7 @@
 - [Other Document](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#dev-token)
 - [Support platform](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#support-platform)
 - [Change Log](https://github.com/khoi321/NuuDiscordBot/edit/main/README.md#change-log)
-- [License](https://github.com/khoi321/NuuDiscordBot?tab=MIT-1-ov-file)
+- [License](https://github.com/khoi321/NuuDiscordBot/blob/main/LICENSE)
 - Clause
   - [Privacy and Security Disclaimer](https://raw.githubusercontent.com/khoi321/NuuDiscordBot/main/privacyDisclaimer.txt)
   - [Disclaimer of Legal Liability](https://raw.githubusercontent.com/khoi321/NuuDiscordBot/main/disClaimer.txt)
@@ -506,6 +506,7 @@ Replace `YOUR_USER_ID` with your Discord User ID.
 |Version|Date|Updated content|
 |-------|----|---------------|
 |1.0.0  |    |Create the project and upload code|
-|1.0.0.1|02/09/2024 7:48 PM (GMT+7)|Update Readme
+|1.0.0.1|02/09/2024 7:48 PM (GMT+7)|Update Readme|
 |1.0.0.2|02/09/2024 8:23 PM (GMT+7)|Update all clause|
+|1.0.0.3|02/09/2024 8:30 PM (GMT+7)|Update Readme|
 
