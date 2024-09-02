@@ -1,3 +1,18 @@
+# Index
+- [Inroduce](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#nuudiscordbot-introduce)
+- [Main Features](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#main-features)
+- [Setup](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#setup)
+- [Setting Bot](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#setting-bot)
+- [Invite Bot](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#setting-bot)
+- [Install Package](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#open-terminal-and-install-npm-packages-on-visual-studio-code)
+- [Run Bot](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#open-terminal-and-install-npm-packages-on-visual-studio-code)
+- [Result](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#result)
+- [Change Prefix](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#result)
+- [Google Sheet API](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#get-google-sheet-api)
+- [ATTENTION](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#attention)
+  - [Google Sheet](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#google-sheet)
+  - [Dev Token](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#dev-token)
+- [Other Document](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#dev-token)
 # NuuDiscordBot Introduce
 Advanced Discord bot with many fun and entertaining features. Helps you manage the server better and more securely. **The project is in the testing and development phase.**
 # Main features
@@ -472,6 +487,3 @@ nodemon bot.mjs
 ```
 Replace `YOUR_USER_ID` with your Discord User ID.
 - See [How to get user discord ID](https://www.youtube.com/results?search_query=how+to+get+discord+user++id)
-
-# Refer to the following sources
-- [Create services account of Google Sheet API](https://www.youtube.com/results?search_query=how+to+create+service+account+in+google+sheet+of+gg+console+cloud)
