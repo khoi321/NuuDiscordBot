@@ -465,9 +465,10 @@ nodemon bot.mjs
 - See [How to get sheet ID?](https://www.youtube.com/results?search_query=how+to+get+sheet+id).
 ## Dev Token
 - Go to `data/DevID.json`.
-``json
+```json
 {
     "devID": "YOUR_USER_ID"
 }
+```
 Replace `YOUR_USER_ID` with your Discord User ID.
 - See [How to get user discord ID](https://www.youtube.com/results?search_query=how+to+get+discord+user++id)
