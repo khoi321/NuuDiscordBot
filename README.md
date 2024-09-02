@@ -487,3 +487,12 @@ nodemon bot.mjs
 ```
 Replace `YOUR_USER_ID` with your Discord User ID.
 - See [How to get user discord ID](https://www.youtube.com/results?search_query=how+to+get+discord+user++id)
+# Support platform
+|Operating system|Yes|No|
+|------------------|----|----|
+| IOS              |    | x
+| Android          |    | x
+| Linux            |  x |  
+| MacOs            |  x |
+| Window           |  x |
+
