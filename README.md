@@ -411,8 +411,47 @@ nodemon bot.mjs
     Replace `!` with your own prefix.
 
 # Get Google Sheet API
+- **Step 1**: Create a Google Cloud Project  
+  - Visit the [Google Cloud Console](https://console.cloud.google.com/).
+  - Create a new project by clicking on the project dropdown in the top navigation and selecting "New Project".
+  - Give your project a name and click "Create".
 
+- **Step 2**: Enable Google Sheets API  
+  - In the Google Cloud Console, select your project.
+  - Go to **APIs & Services** > **Library**.
+  - Search for **Google Sheets API**.
+  - Click **Enable** to activate the API for your project.
+
+- **Step 3**: Create a Service Account  
+  - In the Google Cloud Console, go to **APIs & Services** > **Credentials**.
+  - Click on **Create Credentials** and select **Service Account**.
+  - Provide a name for your service account and click **Create**.
+  - (Optional) Assign roles if needed for other Google services, then click **Continue**.
+  - Click **Done**. Your service account will now be created.
+
+- **Step 4**: Create and Download Service Account Key  
+  - After creating the service account, select it in the **Credentials** tab.
+  - Go to the **Keys** section and click **Add Key** > **Create New Key**.
+  - Choose **JSON** as the key type and click **Create**.
+  - The key file will automatically download. Keep this file safe as it contains credentials for your service account.
+
+- **Step 5**: Get Service Account Email Address  
+  - In the **Credentials** section, find your service account under **Service Accounts**.
+  - The **Email** column displays the email address of the service account. Copy this email address for the next steps.
+
+- **Step 6**: Grant Service Account Access to Google Sheet  
+  - Open the Google Sheet where you want to grant access.
+  - Click on **Share** (top-right corner).
+  - In the "Share with people and groups" window, paste the service account email.
+  - Set the role to **Editor** to allow the service account to edit the sheet.
+  - Click **Send** to share the sheet with the service account.
+
+- **Step 7**: Using the Service Account with Google Sheets API  
+  - When the `credentials.json` file is downloaded, immediately remove any existing `credentials.json` files from the `config` directory of your project.
+  - Rename the newly downloaded JSON key file to `credentials.json`.
+  - Place this `credentials.json` file in the `config` directory within your project.
 # ATTENTION:
+
 ## Google Sheet
 - Go to `config/google-sheet.js`
 - Replace `your-google-sheet-id` with your actual Google Sheet ID.
