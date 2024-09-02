@@ -1,7 +1,7 @@
 DISCLAIMER OF LIABILITY
 
-Last Updated: 02/09/2024 8:07 
-
+Last Updated: 02/09/2024 8:20 PM (GMT+7) 
+( dd/mm/yyy hh:mm PM (GMT+7) )
 1. GENERAL DISCLAIMER
 
 By downloading or using any files, code, or repositories from the GitHub profile located at https://github.com/khoi321, you agree to the following terms and conditions:
