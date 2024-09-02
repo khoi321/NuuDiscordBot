@@ -14,6 +14,7 @@
   - [Dev Token](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#dev-token)
 - [Other Document](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#dev-token)
 - [Support platform](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#support-platform)
+- [Change Log](https://github.com/khoi321/NuuDiscordBot/edit/main/README.md#change-log)
 # NuuDiscordBot Introduce
 Advanced Discord bot with many fun and entertaining features. Helps you manage the server better and more securely. **The project is in the testing and development phase.**
 # Main features
@@ -491,9 +492,16 @@ Replace `YOUR_USER_ID` with your Discord User ID.
 # Support platform
 |Operating system|Yes|No|
 |------------------|----|----|
-| IOS              |    | x
-| Android          |    | x
-| Linux            |  x |  
-| MacOs            |  x |
-| Window           |  x |
+| IOS              |    | x  |
+| Android          |    | x  |
+| Linux            |  x |    |
+| MacOs            |  x |    |
+| Window           |  x |    |
+
+# Change Log
+|Version|Date|Updated content|
+|-------|----|---------------|
+|1.0.0  |    |Create the project and upload code|
+|1.0.0.1|02/09/2024 7:48 PM (GMT+7)|Update Readme
+
 
