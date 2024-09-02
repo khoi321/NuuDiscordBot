@@ -1,0 +1,31 @@
+DISCLAIMER OF LIABILITY
+
+Last Updated: 02/09/2024 8:07 
+
+1. GENERAL DISCLAIMER
+
+By downloading or using any files, code, or repositories from the GitHub profile located at https://github.com/khoi321, you agree to the following terms and conditions:
+
+All files, code, scripts, and repositories available on this GitHub profile are provided "as-is" without any warranties of any kind, express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
+The owner of this GitHub profile is not responsible for any direct, indirect, incidental, or consequential damages arising out of or in connection with the use or inability to use any files, code, or repositories available on this profile.
+The owner of this GitHub profile is not responsible for any third-party modifications or derivative works of the repositories available on this profile, including those that are identical or substantially similar to the original.
+2. THIRD-PARTY CONTENT AND DERIVATIVE WORKS
+
+The repositories on this GitHub profile may be copied, modified, or altered by third parties. The owner of this GitHub profile is not responsible for any issues, bugs, or vulnerabilities introduced by such third-party modifications.
+You acknowledge that any similarities between the repositories on this GitHub profile and those found elsewhere may be due to unauthorized copying or modification. The owner of this GitHub profile disclaims all responsibility for any third-party content that is identical or substantially similar to the repositories available on this profile.
+3. AGE RESTRICTION AND CONTENT WARNING
+
+Some projects, particularly Discord bots, available on this GitHub profile may utilize APIs or include content that is intended for adults only (18+).
+The owner of this GitHub profile is not responsible for any inappropriate use or access by individuals under the legal age to view such content.
+It is your responsibility to ensure that you are of legal age to access and use any content that may include or reference adult material. If you are not of legal age, you must immediately cease any access or use of such repositories.
+4. COMPLIANCE WITH LAWS
+
+You agree to comply with all applicable laws and regulations regarding your use of any files, code, or repositories from this GitHub profile. The owner of this GitHub profile disclaims any responsibility for your use of these materials in violation of any law or regulation.
+5. INDEMNIFICATION
+
+You agree to indemnify, defend, and hold harmless the owner of this GitHub profile from and against any and all claims, damages, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or related to your use of any files, code, or repositories available on this profile.
+6. UPDATES TO THIS DISCLAIMER
+
+The owner of this GitHub profile reserves the right to update or modify this disclaimer at any time without prior notice. Your continued use of any files, code, or repositories from this profile after any such changes constitutes your acceptance of the new terms.
+-----------------------------------------------------
+Because this is an open project, anyone can use this project and I am not responsible. In short, if you use this project, it means you use all projects in your account. Github mentioned above or similar projects like my project or my projects taken and edited by others or all projects that started with me, I will not be subject to any legal action. any.
