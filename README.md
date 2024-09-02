@@ -411,5 +411,24 @@ nodemon bot.mjs
     Replace `!` with your own prefix.
 
 # Get Google Sheet API
-Update soon
- 
+
+# ATTENTION:
+## Google Sheet
+- Go to `config/google-sheet.js`
+- Replace `your-google-sheet-id` with your actual Google Sheet ID.
+- Replace `sheetname!A:B` with the correct sheet name and range for your use case.
+  ```js
+  const spreadsheetId = 'your-google-sheet-id'; //replace your-google-sheet-id
+  const range = 'sheetname!A:B'; //replace sheet name with your sheet
+  ```
+[Learn More](https://www.youtube.com/results?search_query=how+to+rename+sheet+and+work+sheet+in+gg+sheet).
+- If your `Sheet name` and your `workshet name` have a name is `DISCORD_DATA`.You must replace `sheetname` value is `DISCORD_DATA`.
+- See [How to get sheet ID?](https://www.youtube.com/results?search_query=how+to+get+sheet+id).
+## Dev Token
+- Go to `data/DevID.json`.
+``json
+{
+    "devID": "YOUR_USER_ID"
+}
+Replace `YOUR_USER_ID` with your Discord User ID.
+- See [How to get user discord ID](https://www.youtube.com/results?search_query=how+to+get+discord+user++id)
