@@ -504,5 +504,5 @@ Replace `YOUR_USER_ID` with your Discord User ID.
 |-------|----|---------------|
 |1.0.0  |    |Create the project and upload code|
 |1.0.0.1|02/09/2024 7:48 PM (GMT+7)|Update Readme
-
+|1.0.0.2|02/09/2024 8:23 PM (GMT+7)|Update all clause|
 
