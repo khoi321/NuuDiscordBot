@@ -472,3 +472,6 @@ nodemon bot.mjs
 ```
 Replace `YOUR_USER_ID` with your Discord User ID.
 - See [How to get user discord ID](https://www.youtube.com/results?search_query=how+to+get+discord+user++id)
+
+# Refer to the following sources
+- [Create services account of Google Sheet API](https://www.youtube.com/results?search_query=how+to+create+service+account+in+google+sheet+of+gg+console+cloud)
