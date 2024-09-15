@@ -509,4 +509,6 @@ Replace `YOUR_USER_ID` with your Discord User ID.
 |1.0.0.1|02/09/2024 7:48 PM (GMT+7)|Update Readme|
 |1.0.0.2|02/09/2024 8:23 PM (GMT+7)|Update all clause|
 |1.0.0.3|02/09/2024 8:30 PM (GMT+7)|Update Readme|
+|1.0.1|15/09/2024 7:46 PM (GMT+7)|Add Moderator commands|
+|1.0.2|15/09/2024 7:48 PM (GMT+7)|Add In-game infomation command|
 
