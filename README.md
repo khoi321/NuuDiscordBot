@@ -14,7 +14,7 @@
   - [Dev Token](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#dev-token)
 - [Other Document](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#dev-token)
 - [Support platform](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#support-platform)
-- [Change Log](https://github.com/khoi321/NuuDiscordBot/edit/main/README.md#change-log)
+- [Change Log](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#change-log)
 - [License](https://github.com/khoi321/NuuDiscordBot/blob/main/LICENSE)
 - Clause
   - [Privacy and Security Disclaimer](https://raw.githubusercontent.com/khoi321/NuuDiscordBot/main/privacyDisclaimer.txt)
