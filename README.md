@@ -1,4 +1,6 @@
 # Index
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkhoi321%2FNuuDiscordBot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkhoi321%2FNuuDiscordBot?ref=badge_shield)
+
 - [Inroduce](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#nuudiscordbot-introduce)
 - [Main Features](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#main-features)
 - [Setup](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#setup)
@@ -512,3 +514,7 @@ Replace `YOUR_USER_ID` with your Discord User ID.
 |1.0.1|15/09/2024 7:46 PM (GMT+7)|Add Moderator commands|
 |1.0.2|15/09/2024 7:48 PM (GMT+7)|Add In-game infomation command|
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkhoi321%2FNuuDiscordBot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkhoi321%2FNuuDiscordBot?ref=badge_large)
