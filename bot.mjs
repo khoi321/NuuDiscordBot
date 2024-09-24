@@ -45,6 +45,8 @@ async function main() {
   await loadCommands('commands/utility');
   await loadCommands('commands/ticket');
   await loadCommands('commands/giveaways');
+  await loadCommands('commands/moderation');
+  await loadCommands('commands/game');
 
   client.once('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
