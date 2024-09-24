@@ -511,4 +511,5 @@ Replace `YOUR_USER_ID` with your Discord User ID.
 |1.0.0.3|02/09/2024 8:30 PM (GMT+7)|Update Readme|
 |1.0.1|15/09/2024 7:46 PM (GMT+7)|Add Moderator commands|
 |1.0.2|15/09/2024 7:48 PM (GMT+7)|Add In-game infomation command|
+|1.0.2.1|24/09/2024 8:34 PM (GMT+7)|Update [bot.mjs](https://github.com/khoi321/NuuDiscordBot/blob/main/bot.mjs)|
 
