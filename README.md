@@ -19,6 +19,7 @@
 - Clause
   - [Privacy and Security Disclaimer](https://raw.githubusercontent.com/khoi321/NuuDiscordBot/main/privacyDisclaimer.txt)
   - [Disclaimer of Legal Liability](https://raw.githubusercontent.com/khoi321/NuuDiscordBot/main/disClaimer.txt)
+- [Report of project](https://nuudisreport.vercel.app/)
 # NuuDiscordBot Introduce
 Advanced Discord bot with many fun and entertaining features. Helps you manage the server better and more securely. **The project is in the testing and development phase.**
 # Main features
